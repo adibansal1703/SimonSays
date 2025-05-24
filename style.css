@@ -1,0 +1,45 @@
+h1 {
+  font-size: 2.5rem;
+  text-decoration: underline black dashed;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+body {
+  text-align: center;
+}
+
+.line-one,
+.line-two {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  border-radius: 20%;
+  margin: 2rem;
+}
+
+.box-one {
+  background-color: #97d8c4;
+}
+
+.box-two {
+  background-color: #91e5f6;
+}
+
+.box-three {
+  background-color: #ffaff0;
+}
+.box-four {
+  background-color: #b78fe2;
+}
+.flash{
+    background-color: white;
+}
