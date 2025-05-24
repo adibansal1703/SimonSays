@@ -12,7 +12,7 @@ A fun game built using HTML and css and JavaScript. This project was created for
 - It will have to be restarted by pressing any key
 - DO ENJOY!!
 # Live Demo
-visit: 
+visit: https://adibansal1703.github.io/SimonSays/
 # Screenshots
 ![image](https://github.com/user-attachments/assets/df7bdc75-f449-49a7-a108-4f9bb3a5e154)
 # Author 
